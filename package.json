@@ -16,7 +16,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@astrojs/netlify": "^3.0.1",
     "@astrojs/rss": "^2.4.1",
     "@resvg/resvg-js": "^2.4.1",
     "astro": "^3.0.7",
