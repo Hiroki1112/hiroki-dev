@@ -2,9 +2,9 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
-  author: "Hiroki",
+  author: "piro",
   desc: "ダーツとアーチェリーが大好きなエンジニアのブログです。",
-  title: "Hiroki.dev",
+  title: "piro.dev",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
