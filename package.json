@@ -1,6 +1,7 @@
 {
   "name": "hiroki-dev",
   "version": "2.3.0",
+  "type": "module",
   "scripts": {
     "dev": "astro check --watch & astro dev",
     "start": "astro dev",
