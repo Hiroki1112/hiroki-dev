@@ -8,7 +8,7 @@ const sitemap = (): AstroIntegration => {
     name: "shinobiworks/sitemap",
     hooks: {
       "astro:build:done": async ({ dir, pages }) => {
-        const hostname = "https://ringorin.com/";
+        const hostname = "https://piro-dev.vercel.app/";
         const sms = new SitemapStream({
           hostname,
         });
