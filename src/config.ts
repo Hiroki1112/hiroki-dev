@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "piro",
   desc: "ダーツとアーチェリーが大好きなエンジニアのブログです。",
   title: "piro.dev",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "og-image.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
