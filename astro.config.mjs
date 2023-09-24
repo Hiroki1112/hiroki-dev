@@ -8,7 +8,7 @@ import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://hiroki-dev.vercel.app/", // replace this with your deployed domain
+  site: "https://piro-dev.vercel.app/", // replace this with your deployed domain
   output: "hybrid",
   adapter: vercel(),
   integrations: [
