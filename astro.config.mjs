@@ -8,8 +8,8 @@ import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  output: 'hybrid',
+  site: "https://hiroki-dev.vercel.app/", // replace this with your deployed domain
+  output: "hybrid",
   adapter: vercel(),
   integrations: [
     tailwind({
